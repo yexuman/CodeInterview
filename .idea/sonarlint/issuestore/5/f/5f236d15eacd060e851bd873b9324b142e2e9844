@@ -1,0 +1,4 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(øÓ¼Ë8ÅÒóó.
+@squid:S1172"&Remove these unused method parameters.(¸æ 8ÅÒóó.
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øÓ¼Ë

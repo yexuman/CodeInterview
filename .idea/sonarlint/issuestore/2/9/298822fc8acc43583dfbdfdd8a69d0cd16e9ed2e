@@ -1,0 +1,7 @@
+
+Jsquid:S1481")Remove this unused "temp" local variable.(¯°äÛùÿÿÿÿ8¿ë±Ò—/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆôã8Á™¯Ò—/
+Isquid:S1172"(Remove this unused method parameter "j".(•ø¥ùÿÿÿÿ8¨Ì¯Ò—/
+Ysquid:S1854"8Remove this useless assignment to local variable "temp".(¯°äÛùÿÿÿÿ8¿ë±Ò—/
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(åœüİ8Á™¯Ò—/
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïàºôøÿÿÿÿ8Á™¯Ò—/
