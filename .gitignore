@@ -1,0 +1,14 @@
+
+.idea
+*.iml
+target
+logs
+.classpath
+.project
+.settings/
+.amateras
+classes
+conf/
+.DS_Store
+app.jar
+app/
