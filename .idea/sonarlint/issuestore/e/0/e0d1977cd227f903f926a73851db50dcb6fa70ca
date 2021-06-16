@@ -1,7 +1,0 @@
-
-[squid:S1118":Add a private constructor to hide the implicit public one.(¢÷şÿÿÿÿ8¸–¶²ˆ/
-‰"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(ë™Ùµøÿÿÿÿ8¸–¶²ˆ/
-hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢÷şÿÿÿÿ
-‚"squid:ClassVariableVisibilityCheck"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8¸–¶²ˆ/
-csquid:S2259"BA "NullPointerException" could be thrown; "root" is nullable here.(´Ö›üÿÿÿÿ8¸Ëâ²ˆ/
-ƒ"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(ŠËÌç8¸–¶²ˆ/

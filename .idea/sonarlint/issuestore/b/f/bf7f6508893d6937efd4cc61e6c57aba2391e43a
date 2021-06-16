@@ -1,5 +1,0 @@
-
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇœÚ›ûÿÿÿÿ8Ø¨Ú¿á.
-lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(—¨å¨8ÕÍà¿á.
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—Ëâ¾8š‡Ú¿á.
-lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ˆş¹8ÕÍà¿á.

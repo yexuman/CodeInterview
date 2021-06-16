@@ -1,4 +1,0 @@
-
-qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8²øÕ¿Ž/
-hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„°çêúÿÿÿÿ
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äœœ²þÿÿÿÿ8ãƒÐ¿Ž/

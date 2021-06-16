@@ -1,5 +1,0 @@
-
-csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öÌ”ü
-|"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(ŠËÌç
-‚"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(ë™Ùµøÿÿÿÿ
-{"squid:ClassVariableVisibilityCheck"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ

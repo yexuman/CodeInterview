@@ -1,6 +1,0 @@
-
-zsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¤ÒŒ¸úÿÿÿÿ8ãõ«¡…/
-hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö‚‹üÿÿÿÿ
-Tsquid:S1197"8Move the array designator from the variable to the type.(ÊØ²û8ãõ«¡…/
-Msquid:S1264",Replace this "for" loop with a "while" loop.(­Úí€úÿÿÿÿ8ãõ«¡…/
-Msquid:S1264",Replace this "for" loop with a "while" loop.(ªñï±ıÿÿÿÿ8ãõ«¡…/
