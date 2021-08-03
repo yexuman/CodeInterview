@@ -65,7 +65,6 @@ public class Leetcode152_乘积最大子数组 {
                 max[i] = Math.max(nums[i], max[i - 1] * nums[i]);
                 min[i] = Math.min(nums[i], min[i - 1] * nums[i]);
             } else {
-                int temp = max[i - 1];  //保存一下
                 max[i] = Math.max(nums[i], min[i - 1] * nums[i]);
                 min[i] = Math.min(nums[i], max[i - 1] * nums[i]);
             }
